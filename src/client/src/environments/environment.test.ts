@@ -5,9 +5,9 @@
 
 export const environment = {
   production: true,
-  apiUrl: 'https://di-apim-integration-stg.azure-api.net/api',
+  apiUrl: 'https://di-vjne-apim-integration-stg.azure-api.net/api',
   auth0CallbackUrl: "https://staging.dertinfo.co.uk",
   allowedDomains: [
-    "di-apim-integration-stg.azure-api.net",
+    "di-vjne-apim-integration-stg.azure-api.net",
   ]
 };
